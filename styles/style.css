@@ -1,0 +1,17 @@
+.bg-orange{
+    color: #FA804C;
+}
+
+.bg-banner{
+    background-color: #FFF9F4;
+}
+
+.bg-shoe{
+    background-color: #F1F1F1;
+}
+.bg-button{
+    background-image: linear-gradient(#3D4FF3,#3543BC);
+}
+.fa-solid{
+    padding-right: 5px;
+}
